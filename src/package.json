@@ -1,15 +1,15 @@
 {
-  "name": "ng2-qrcode-reader",
-  "version": "0.0.1",
-  "description": "An Angular 4+ component for reading QRCodes ",
-  "homepage": "https://www.techiediaries.com/demos/ng2-qrcode-reader/",
+  "name": "ng2-qrcode-reader-support-angular-10",
+  "version": "0.0.3",
+  "description": "An Angular 4+ component for reading QRCodes, Support Angular 10 - rebuild by Kun",
+  "homepage": "https://github.com/trungkiendang/ng2-qrcode-reader",
   "repository": {
     "type": "git",
-    "url": "https://github.com/techiediaries/ng2-qrcode-reader"
+    "url": "https://github.com/trungkiendang/ng2-qrcode-reader"
   },
   "author": {
-    "name": "Techiediaries",
-    "email": "techiediaries9@gmail.com"
+    "name": "kun",
+    "email": "kiendangtrung@live.com"
   },
   "keywords": [
     "angular",
@@ -17,7 +17,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/techiediaries/ng2-qrcode-reader/issues"
+    "url": "https://github.com/trungkiendang/ng2-qrcode-reader/issues"
   },
   "module": "ng2-qrcode-reader.js",
   "typings": "ng2-qrcode-reader.d.ts",

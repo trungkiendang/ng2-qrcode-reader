@@ -1,6 +1,6 @@
 {
-  "name": "ng2-qrcode-reader",
-  "version": "0.0.1",
+  "name": "ng2-qrcode-reader-support-angular-10",
+  "version": "0.0.3",
   "scripts": {
     "build": "gulp build",
     "build:watch": "gulp",
@@ -10,18 +10,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/techiediaries/ng2-qrcode-reader"
+    "url": "https://github.com/trungkiendang/ng2-qrcode-reader"
   },
   "author": {
-    "name": "Techiediaries",
-    "email": "techiediaries9@gmail.com"
+    "name": "Kun",
+    "email": "kiendangtrung@live.com"
   },
   "keywords": [
     "angular"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/techiediaries/ng2-qrcode-reader/issues"
+    "url": "https://github.com/trungkiendang/ng2-qrcode-reader/issues"
   },
   "devDependencies": {
     "@angular/common": "^10.2.4",
